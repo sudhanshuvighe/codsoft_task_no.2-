@@ -7,9 +7,6 @@ A basic Python calculator that performs simple arithmetic operations.
 - Easy-to-use console interface
 -  
 # How to Use
-1. Clone or download the repository.
-2. Run the `calculator.py` s
-   python calculator.py
    
 Enter the first number.
 
@@ -19,9 +16,8 @@ Choose an operation: +, -, *, /.
 
 The result will be displayed in the console.
 
-Example
-yaml
-Copy code
+Example:
+
 Enter the first number: 10
 Enter the second number: 5
 Choose an operation: +, -, *, /
